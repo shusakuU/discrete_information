@@ -1,0 +1,2 @@
+# descrete_information
+離散情報論の授業で出た構造的を実装する
